@@ -949,7 +949,12 @@ body{
  /*=======================
 	 End Why choose CSS
  =========================*/
+
+ .home-team-section {
+	background:#F9F9F9;
+ }
  
+
  /*===============================
 	 Start Call to action CSS
  =================================*/
